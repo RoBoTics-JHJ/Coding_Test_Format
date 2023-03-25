@@ -8,6 +8,6 @@
 
 ![pycharm_image](/example_image/example_pycharm.png)
 
-![pycharm_image](/example_image/example_pycharm.png)(: width="300" height="300")(: .center)
+![pycharm_image](/example_image/example_pycharm.png : width="300" height="300" : .center)
 
 <img src="/example_image/example_pycharm.png" width="300" height="300">
