@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" height="100%" src="/example.png"></p>
+<p align="center"><img width="100%" height="100%" src="/example_img.png"></p>
 
  ## IDEA 
  특별한 설정 없이 main, input, output 3개의 파일을 한 화면에 띄운 뒤에 main.py를 실행시키면
