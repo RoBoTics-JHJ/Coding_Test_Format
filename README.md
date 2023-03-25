@@ -7,3 +7,5 @@
 </p>
 
 ![pycharm_image](/example_image/example_pycharm.png){: width="500" height="200"}
+
+<img src="/example_image/example_pycharm.png" width="300" height="300">
