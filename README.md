@@ -1,7 +1,7 @@
 <p align="center"><img width="100%" height="100%" src="/example.png"></p>
 
  ## IDEA 
- 특별한 설정 없이 main, input, output 3개의 디렉토리를 한 화면에 띄운 뒤에 main.py를 실행시키면
+ 특별한 설정 없이 main, input, output 3개의 파일을 한 화면에 띄운 뒤에 main.py를 실행시키면
  
  main에서 input을 읽은 뒤에 output에서 결과를 보여주도록 한다. 
  
