@@ -5,3 +5,5 @@
 <p align="center">
   <img width="40%" height="40%" src="https://github.com/RoBoTics-JHJ/Coding_Test_Format/blob/main/example_image/example_pycharm.png">
 </p>
+
+![pycharm_image](/example_image/example_pycharm.png){: width="500" height="200"}
