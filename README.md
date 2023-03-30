@@ -7,7 +7,7 @@
  
  한 번에 전체를 볼 수 있어서 편리하고 디버깅을 수월하게 할 수 있다. (예제 input을 손쉽게 넣어볼 수 있음)
  
- ⛳ vscode나 pycharm 상관없이, 어떠한 IDE에서도 별도로 terminal configuration을 수정할 필요가 없음
+ ⛳ vscode나 pycharm 상관없이, 어떠한 IDE에서도 별도의 __"Terminal Configuration"__ 을 수정할 필요가 없음
  
  ## 사용방법
  코테 __1문제당 1개의 디렉토리__ 로 관리할 수 있도록 설계했다. 
