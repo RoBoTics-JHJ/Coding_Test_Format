@@ -1,9 +1,9 @@
 <p align="center"><img width="100%" height="100%" src="/example_img.jpg"></p>
 
  ## IDEA 
- 특별한 설정 없이 main, input, output 3개의 파일을 한 화면에 띄운 뒤에 main.py를 실행시키면
+위 그림처럼 main.py, input.txt, output.txt 3개의 파일을 한 화면에 띄운 뒤에 main.py를 실행시키면
  
- main에서 input을 읽은 뒤에 output에서 결과를 보여주도록 한다. 
+input.txt을 main.py의 stdin으로 읽어서 output.txt로 stdout 결과를 보여준다.
  
  한 번에 전체를 볼 수 있어서 편리하고 디버깅을 수월하게 할 수 있다. (예제 input을 손쉽게 넣어볼 수 있음)
  
